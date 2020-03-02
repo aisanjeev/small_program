@@ -1,0 +1,184 @@
+<!------main content start------>
+      <div class="container">
+          <div class="row">
+            <div class="col-md-8">
+              <h1>Page Heading</h1><span>Secondary Text</span>
+
+              <!------Looop---start-->
+              <div class="row space">
+                <div class="col-md-12">
+                  <div class="card" >
+  <img src="image/4.jpg" class="card-img-top img-fluid" style="height: 350px;" alt="...">
+  <div class="card-body">
+    <h3>Post Title</h3>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <button type="button" class="btn btn-primary">Read More...</button>
+  </div>
+  <div class="bg-light post">
+    <p>Posted on January 1, 2020 by <a href="#">Aman Dubey</a></p> 
+  </div>
+</div>
+                </div>
+              </div>
+              <!------Looop---start-->
+
+
+                      <!------Looop---start-->
+              <div class="row space">
+                <div class="col-md-12">
+                  <div class="card" >
+  <img src="image/4.jpg" class="card-img-top img-fluid" style="height: 350px;" alt="...">
+  <div class="card-body">
+    <h3>Post Title</h3>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <button type="button" class="btn btn-primary">Read More...</button>
+  </div>
+  <div class="bg-light post">
+    <p>Posted on January 1, 2020 by <a href="#">Aman Dubey</a></p> 
+  </div>
+</div>
+                </div>
+              </div>
+              <!------Looop---start-->
+
+
+                      <!------Looop---start-->
+              <div class="row space">
+                <div class="col-md-12">
+                  <div class="card" >
+  <img src="image/4.jpg" class="card-img-top img-fluid" style="height: 350px;" alt="...">
+  <div class="card-body">
+    <h3>Post Title</h3>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <button type="button" class="btn btn-primary">Read More...</button>
+  </div>
+  <div class="bg-light post">
+    <p>Posted on January 1, 2020 by <a href="#">Aman Dubey</a></p> 
+  </div>
+</div>
+                </div>
+              </div>
+              <!------Looop---start-->
+
+
+
+                      <!------Looop---start-->
+              <div class="row space">
+                <div class="col-md-12">
+                  <div class="card" >
+  <img src="image/4.jpg" class="card-img-top img-fluid" style="height: 350px;" alt="...">
+  <div class="card-body">
+    <h3>Post Title</h3>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <button type="button" class="btn btn-primary">Read More...</button>
+  </div>
+  <div class="bg-light post">
+    <p>Posted on January 1, 2020 by <a href="#">Aman Dubey</a></p> 
+  </div>
+</div>
+                </div>
+              </div>
+              <!------Looop---start-->
+
+
+                      <!------Looop---start-->
+              <div class="row space">
+                <div class="col-md-12">
+                  <div class="card" >
+  <img src="image/4.jpg" class="card-img-top img-fluid" style="height: 350px;" alt="...">
+  <div class="card-body">
+    <h3>Post Title</h3>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <button type="button" class="btn btn-primary">Read More...</button>
+  </div>
+  <div class="bg-light post">
+    <p>Posted on January 1, 2020 by <a href="#">Aman Dubey</a></p> 
+  </div>
+</div>
+                </div>
+              </div>
+              <!------Looop---start-->
+
+                      <!------Looop---start-->
+              <div class="row space">
+                <div class="col-md-12">
+                  <div class="card" >
+  <img src="image/4.jpg" class="card-img-top img-fluid" style="height: 350px;" alt="...">
+  <div class="card-body">
+    <h3>Post Title</h3>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <button type="button" class="btn btn-primary">Read More...</button>
+  </div>
+  <div class="bg-light post">
+    <p>Posted on January 1, 2020 by <a href="#">Aman Dubey</a></p> 
+  </div>
+</div>
+                </div>
+              </div>
+              <!------Looop---start-->
+
+
+
+
+            </div>
+
+            <div class="col-md-4">
+
+
+              <!------Search Box-----start-->
+                <div class="card space">
+  <h5 class="card-header">Search</h5>
+  <div class="card-body">
+
+    <form class="form-inline">
+  <div class="form-group mx-sm-3 mb-2">
+    <label for="inputPassword2" class="sr-only">Password</label>
+    <input type="text" class="form-control" id="inputPassword2" placeholder="Search">
+  </div>
+  <button type="submit" class="btn btn-primary mb-2">Search</button>
+</form>
+    
+  </div>
+</div>
+
+              <!------Search Box-----end-->
+
+              <!----Category start---->
+                              <div class="card space">
+  <h5 class="card-header">Category</h5>
+  <div class="card-body">
+
+<div class="row">
+    <div class="col-md-6">
+      <p><a href="#">Web Design</a></p>
+      <p><a href="#">Web Design</a></p>
+      <p><a href="#">Web Design</a></p>
+      <p><a href="#">Web Design</a></p>
+    </div>
+
+     <div class="col-md-6">
+      <p><a href="#">HTML</a></p>
+      <p><a href="#">Web Design</a></p>
+      <p><a href="#">Web Design</a></p>
+      <p><a href="#">Web Design</a></p>
+      <p><a href="#">Web Design</a></p>
+    </div>
+    </div>
+
+  </div>
+</div>
+
+              <!-----category end---->
+
+              
+
+            </div>
+
+          </div>
+
+
+      </div>
+
+
+    <!------main content end------>
+
